@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Question20
+comment0.text=\r\n\ Question\ 20\ book\ work\r\n\r\n\ Mohith\ Nagendra\r\n\ 2/3/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=int[][]\ pascalTriangle(int)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Question19
+comment0.text=\r\n\ Question\ 19\ book\ work\r\n\r\n\ Mohith\ Nagendra\r\n\ 2/3/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=java.lang.String[]\ allSubstrings(java.lang.String)
+comment3.params=words
+comment3.target=java.lang.String[][]\ partb(java.lang.String[])
+numComments=4

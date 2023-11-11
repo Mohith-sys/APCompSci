@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\n\ Cleaning\ robot\ which\ will\ go\ through\ a\ 2D\ array\ and\ clean\ all\ the\ objects\r\n\ in\ each\ element\ of\ the\ array.\ The\ location\ of\ the\ the\ robot\ within\ the\ array\r\n\ is\ printed\ in\ the\ format\ (row,\ column)\ and\ the\ total\ amount\ of\ moves\ will\ be\r\n\ printed\ out.\r\n\r\n\ @Mohith\ Nagendra,\ Emmanuel\ Leo,\ Keerat\ Singh\ Dev\r\n\ @2/7/22\r\n
+comment1.params=h\ fr\ x\ y
+comment1.target=Robot(int[][],\ boolean,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ forwardMoveBlocked()
+comment3.params=
+comment3.target=int\ cleanRoom()
+comment4.params=
+comment4.target=boolean\ roomIsClear()
+numComments=5
